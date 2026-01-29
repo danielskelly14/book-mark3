@@ -1,0 +1,8 @@
+/**/__pycache__
+server/config/config.json
+server/cache
+/.vscode
+/.venv
+dist/
+node_modules/
+.DS_Store
